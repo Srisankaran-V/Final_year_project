@@ -1,4 +1,6 @@
 https://chat.openai.com/share/a16892da-4ce2-41d5-927c-4a1d817d8fc3
+
+https://chat.openai.com/share/c7a1bacd-45a1-4f2d-9d91-8cee11def098
 import numpy as np
 from PIL import Image
 import secrets
